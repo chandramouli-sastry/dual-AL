@@ -28,11 +28,6 @@ In order to run information retrieval experiments:
 python -m IR.driver [cnn|rnn] [0|1] [Hall|Kitchenham|Wahano|Radjenovic]
 ```
 
-In order to run information retrieval experiments:
-```
-python -m IR.driver [cnn|rnn] [0|1] [Hall|Kitchenham|Wahano|Radjenovic]
-```
-
 In order to run one shot classification experiments:
 ```
 python -m 1shot.driver [cnn|rnn|sharma]
